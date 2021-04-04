@@ -1,4 +1,4 @@
-/*ËãÁË¸ö×Ü³É¼¨*/
+/*ç®—äº†ä¸ªæ€»æˆç»©*/
 
 #include<iostream>
 using namespace std;
@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int score[3][3] = { {100,100,100},{90,50,100},{60,70,80} }, addscore[3] = { 0, 0, 0 };
-	string name[3] = { "ÕÅÈı","ÀîËÄ","ÍõÎå" };
+	string name[3] = { "å¼ ä¸‰","æå››","ç‹äº”" };
 	for (int i = 0; i < 3; i++)
 	{
 		for (int j = 0; j < 3; j++)
@@ -16,9 +16,8 @@ int main()
 	}
 	for (int i = 0; i < 3; i++)
 	{
-		cout << name[i] << "µÄ×Ü³É¼¨Îª£º";
+		cout << name[i] << "çš„æ€»æˆç»©ä¸ºï¼š";
 		cout << addscore[i] << endl;
-
 	}
 
 	system("pause");
