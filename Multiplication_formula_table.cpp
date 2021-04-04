@@ -19,7 +19,6 @@ int main()
 		Multiplier = 1;
 		cout << endl;
 	}
-
 	system("pause");
 	return 0;
 }
