@@ -1,4 +1,4 @@
-/*
+/* 结构体嵌套
 #include<iostream>
 #include<string>
 using namespace std;
@@ -51,7 +51,7 @@ int main()
 }
 */
 
-/*
+/*结构体冒泡排序
 #include<iostream>
 #include<string>
 using namespace std;
