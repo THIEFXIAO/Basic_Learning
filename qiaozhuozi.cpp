@@ -1,5 +1,5 @@
 /*click bord
-´Ó1¿ªÊ¼Êýµ½Êý×Ö100£¬ Èç¹ûÊý×Ö¸öÎ»º¬ÓÐ7£¬»òÕßÊý×ÖÊ®Î»º¬ÓÐ7£¬»òÕß¸ÃÊý×ÖÊÇ7µÄ±¶Êý£¬ÎÒÃÇ´òÓ¡ÇÃ×À×Ó£¬ÆäÓàÊý×ÖÖ±½Ó´òÓ¡Êä³ö
+ä»Ž1å¼€å§‹æ•°åˆ°æ•°å­—100ï¼Œ å¦‚æžœæ•°å­—ä¸ªä½å«æœ‰7ï¼Œæˆ–è€…æ•°å­—åä½å«æœ‰7ï¼Œæˆ–è€…è¯¥æ•°å­—æ˜¯7çš„å€æ•°ï¼Œæˆ‘ä»¬æ‰“å°æ•²æ¡Œå­ï¼Œå…¶ä½™æ•°å­—ç›´æŽ¥æ‰“å°è¾“å‡º
 */
 /*
 #include<iostream>
@@ -10,7 +10,7 @@ int main()
 	int num = 1, shi = 0, ge = 0, yu = 0;
 	for ( num = 1; num < 100; num++)
 	{
-		shi = num / 10 % 10; //ÕâÀïµÄ%10ÆäÊµ¿ÉÒÔÈ¥µô£¬³ýÒÔÕûÐÎ±¾À´¾Í»áÏ÷µôÐ¡ÊýµãºóÃæµÄ
+		shi = num / 10 % 10; //è¿™é‡Œçš„%10å…¶å®žå¯ä»¥åŽ»æŽ‰ï¼Œé™¤ä»¥æ•´å½¢æœ¬æ¥å°±ä¼šå‰ŠæŽ‰å°æ•°ç‚¹åŽé¢çš„
 		ge = num / 1 % 10;
 		yu = num % 7;
 		if (shi == 7 || ge == 7 || yu == 0)
@@ -20,7 +20,6 @@ int main()
 			cout << num << endl;
 		}
 	}
-
 	system("pause");
 	return 0;
 }
