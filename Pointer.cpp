@@ -39,7 +39,6 @@ int main()
 }
 */
 
-
 // The BubbleSort  with point
 /*
 #include<iostream>
@@ -68,6 +67,7 @@ void BubbleSort(int* p, int size)
 		}	
 	}
 }
+
 
 int main()
 {

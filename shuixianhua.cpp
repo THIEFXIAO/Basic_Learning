@@ -29,7 +29,6 @@ int main( )
 		shi = 0;
 		bai = bai++;
 	}
-
 	system("pause");
 
 	return 0;
