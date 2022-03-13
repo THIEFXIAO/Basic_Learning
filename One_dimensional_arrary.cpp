@@ -1,4 +1,4 @@
-/*找最大值、调整数组顺序、冒泡排序*/
+/* 找最大值、调整数组顺序、冒泡排序 */
 /*
 #include<iostream>
 using namespace std;

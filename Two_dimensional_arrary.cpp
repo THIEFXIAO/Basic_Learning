@@ -1,4 +1,4 @@
-/*算了个总成绩,二维数组的简单使用*/
+/* 算了个总成绩,二维数组的简单使用 */
 
 //#include<iostream>
 //using namespace std;

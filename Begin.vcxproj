@@ -146,6 +146,7 @@
     <ClCompile Include="qiaozhuozi.cpp" />
     <ClCompile Include="shuixianhua.cpp" />
     <ClCompile Include="Struct.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="Two_dimensional_arrary.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
