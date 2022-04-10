@@ -1,3 +1,5 @@
+// жпндбрбКакё©
+
 #include <iostream>
 
 using namespace std;
