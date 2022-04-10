@@ -1,10 +1,13 @@
+// 学习类的简单设计与使用
+
+/*
 #include <iostream>
 
 using namespace std;
 
 class Point
 {
-    public:	
+    public:
 
         void InputXY(double x = -1, double y = -1) {
             if (x != -1)Coordinate[0] = x;
@@ -42,7 +45,7 @@ class Circle
             if (distance < Radius * Radius) return 1;
             if (distance > Radius * Radius) return 2;
         }
-	
+
     private:
         Point Center;
         double Radius = 0;
@@ -66,19 +69,20 @@ int main() {
     int Position = b.PointPosition(a);
     switch (Position)
     {
-        case 0:
-            cout << "在圆上" << endl;
-            break;
-        case 1:
-            cout << "在圆内" << endl;
-            break;
-        case 2:
-            cout << "在圆外" << endl;
-            break;
-        default:
-            cout << "???" << endl;
-            break;
+    case 0:
+        cout << "在圆上" << endl;
+        break;
+    case 1:
+        cout << "在圆内" << endl;
+        break;
+    case 2:
+        cout << "在圆外" << endl;
+        break;
+    default:
+        cout << "???" << endl;
+        break;
     }
 
     return 0;
 }
+*/
