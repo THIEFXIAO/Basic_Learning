@@ -1,4 +1,3 @@
-// жпндбрбКакё©
 
 #include <iostream>
 
