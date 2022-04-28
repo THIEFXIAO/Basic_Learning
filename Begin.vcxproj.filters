@@ -42,5 +42,8 @@
     <ClCompile Include="DesignClass.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MySort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

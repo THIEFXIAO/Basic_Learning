@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DesignClass.cpp" />
+    <ClCompile Include="MySort.cpp" />
     <ClCompile Include="One_dimensional_arrary.cpp" />
     <ClCompile Include="Multiplication_formula_table.cpp" />
     <ClCompile Include="Pointer.cpp" />

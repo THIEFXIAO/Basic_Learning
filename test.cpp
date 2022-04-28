@@ -1,5 +1,5 @@
 // 统计二进制中相隔最远的1
-
+/*
 #include <iostream>
 #include<vector>
 #include<algorithm>
@@ -26,3 +26,4 @@ int main() {
 
     return ans;
 }
+*/
